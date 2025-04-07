@@ -1,2 +1,2 @@
 # sql-project
-sql porject
+sql project
