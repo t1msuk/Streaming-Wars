@@ -24,3 +24,4 @@ jobs:
     - name: Run TVmaze API Notebook
       run: |
         papermill Notebooks/API_Extract_Load_Raw.ipynb Notebooks/API_Extract_Load_Raw_output.ipynb
+
